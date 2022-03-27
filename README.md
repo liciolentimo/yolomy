@@ -7,7 +7,7 @@ Created replica of the site in the image below using HTML and CSS.
 
 clone the repo:
 ```
-$ git clone https://github.com/liciolentimo/moringacore.git
+$ git clone https://github.com/liciolentimo/yolomy.git
 ```
 
 # View Project
