@@ -11,6 +11,6 @@ $ git clone https://github.com/liciolentimo/yolomy.git
 ```
 
 # View Project
-The project is hosted on Github Pages <a href="https://licio-yolomy.netlify.app/">Yolomy</a>
+The project is hosted on Netlify <a href="https://licio-yolomy.netlify.app/">Yolomy</a>
 # Authors
 Licio Lentimo
